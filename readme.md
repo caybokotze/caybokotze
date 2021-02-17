@@ -1,5 +1,5 @@
 <h1 align="center">Caybo Kotze</h1>
-<h3 align="center">South African .NET dev</h3>
+<h3 align="center">I use .NET to solve my problems.</h3>
 <hr />
 
 <p align="center">
