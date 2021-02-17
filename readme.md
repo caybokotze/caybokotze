@@ -19,7 +19,7 @@
 <br/>
 
 <h2 align="center">Stuff I work with</h2>
-<ul align="center" style="list-style-type:none;">
+<p align="center">
   <li>.NET 5 / Core / Framework</li>
   <li>MySQL</li>
   <li>Redis</li>
@@ -28,5 +28,6 @@
   <li>Microservices</li>
   <li>Vue</li>
   <li>Angular</li>
-</ul>
+ </p>
+
 
