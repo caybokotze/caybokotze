@@ -18,3 +18,10 @@
 
 <br/>
 
+<h2 align="center">Stuff I work with</h2>
+<ul>
+  <li>Everything in .NET land</li>
+  <li>Vue</li>
+  <li>Angular</li>
+</ul>
+
