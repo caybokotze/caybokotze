@@ -36,5 +36,5 @@
 <img src="https://raw.githubusercontent.com/caybokotze/caybokotze/main/spectral-norm.png">
 <img src="https://raw.githubusercontent.com/caybokotze/caybokotze/main/regex-redux.png">
 
-<a href="https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharpcore-gpp.html">read more</a>
+<a href="https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharpcore-gpp.html" target="_blank">read more</a>
 
