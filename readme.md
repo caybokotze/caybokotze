@@ -33,4 +33,6 @@
 <h2>.NET Performance Stats</h2>
 <img src="https://miro.medium.com/max/1000/1*R4iDn4PMZ_IAihzkjaU_pA.png">
 <img src="https://miro.medium.com/max/1000/1*hKHW1eTnLHV-MB9w2x9Y_g.png">
+<img src="https://raw.githubusercontent.com/caybokotze/caybokotze/main/spectral-norm.png">
+<img src="https://raw.githubusercontent.com/caybokotze/caybokotze/main/regex-redux.png">
 
