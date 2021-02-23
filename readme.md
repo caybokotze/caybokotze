@@ -19,14 +19,14 @@
 <br/>
 
 <h2 align="center">Stuff I work with</h2>
-<p>.NET 5 / Core / Framework</p>
-<p>MySQL</p>
-<div>Redis</div>
-<div>RabbitMQ</div>
-<div>CQRS Pattern</div>
-<div>Microservices</div>
-<div>Vue</div>
-<div>Angular</div>
+<p align="center">.NET 5 / Core / Framework</p>
+<p align="center">MySQL</p>
+<p align="center">Redis</p>
+<p align="center">RabbitMQ</p>
+<p align="center">CQRS Pattern</p>
+<p align="center">Microservices</p>
+<p align="center">Vue</p>
+<p align="center">Angular</p>
 
 
 
