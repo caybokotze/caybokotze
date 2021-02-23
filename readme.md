@@ -29,4 +29,7 @@
 <p align="center">Angular</p>
 
 
+<h2>.NET Performance Stuff</h2>
+<img src="https://miro.medium.com/max/1000/1*R4iDn4PMZ_IAihzkjaU_pA.png">
+<img src="https://miro.medium.com/max/1000/1*hKHW1eTnLHV-MB9w2x9Y_g.png">
 
