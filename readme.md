@@ -1,5 +1,6 @@
 <h1 align="center">Caybo Kotze</h1>
 <h3 align="center">I use .NET to solve my problems.</h3>
+<p>.NET has made significant strides in the past few years. If you are looking for something with really good performance that won't break your mind too much, go try it.</p>
 <hr />
 
 <p align="center">
@@ -29,7 +30,7 @@
 <p align="center">Angular</p>
 
 
-<h2>.NET Performance Stuff</h2>
+<h2>.NET Performance Stats</h2>
 <img src="https://miro.medium.com/max/1000/1*R4iDn4PMZ_IAihzkjaU_pA.png">
 <img src="https://miro.medium.com/max/1000/1*hKHW1eTnLHV-MB9w2x9Y_g.png">
 
