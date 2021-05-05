@@ -1,6 +1,6 @@
 <h1 align="center">Caybo Kotze</h1>
-<h3 align="center">I use .NET to solve my problems.</h3>
-<p>.NET has made significant strides in the past few years. If you are looking for something with really good performance that won't break your mind too much, go try it.</p>
+<h3 align="center">Code is a tool which I use to solve my problems.</h3>
+<p>People are a lot more difficult to handle than code. It does what you tell it to do and nothing else without fail (mostly...).</p>
 <hr />
 
 <p align="center">
