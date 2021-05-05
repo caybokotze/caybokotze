@@ -46,73 +46,73 @@
   <tr>
     <td>C#</td>
     <td></td>
-    <td>X</td>
+    <td align="center">X</td>
     <td></td>
   </tr>
   <tr>
     <td>Typescript</td>
     <td></td>
-    <td>X</td>
+    <td align="center">X</td>
     <td></td>
   </tr>
   <tr>
     <td>Javascript</td>
     <td></td>
-    <td>X</td>
+    <td align="center">X</td>
     <td></td>
   </tr>
   <tr>
     <td>Go Lang</td>
     <td></td>
-    <td>X</td>
+    <td align="center">X</td>
     <td></td>
   </tr>
   <tr>
     <td>Node w/Express</td>
+    <td align="center">X</td>
     <td></td>
-    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td>Redis</td>
     <td></td>
-    <td>X</td>
     <td></td>
+    <td align="center">X</td>
   </tr>
   <tr>
     <td>RabbitMq</td>
     <td></td>
-    <td>X</td>
     <td></td>
+    <td align="center">X</td>
   </tr>
   <tr>
     <td>MSSQL</td>
     <td></td>
-    <td>X</td>
     <td></td>
+    <td align="center">X</td>
   </tr>
   <tr>
     <td>MySQL</td>
     <td></td>
-    <td>X</td>
     <td></td>
+    <td align="center">X</td>
   </tr>
   <tr>
     <td>Angularjs</td>
+    <td align="center">X</td>
     <td></td>
-    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td>Angular</td>
+    <td align="center">X</td>
     <td></td>
-    <td>X</td>
     <td></td>
   </tr>
    <tr>
     <td>Vue</td>
+    <td align="center">X</td>
     <td></td>
-    <td>X</td>
     <td></td>
   </tr>
 </table>
