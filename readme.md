@@ -29,6 +29,24 @@
 <p align="center">Vue</p>
 <p align="center">Angular</p>
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
 
 <h2>.NET Performance Stats</h2>
 <img src="https://miro.medium.com/max/1000/1*R4iDn4PMZ_IAihzkjaU_pA.png">
