@@ -159,6 +159,11 @@
     <td>https://www.nuget.org/packages/Dapper.Doodle</td>
     <td>C#</td>
   </tr>
+  <tr>
+    <td>MySql Migration Helper</td>
+    <td>Coming soon</td>
+    <td>GoLang</td>
+  </tr>
 </table>
 
 <h2>.NET Performance Stats</h2>
