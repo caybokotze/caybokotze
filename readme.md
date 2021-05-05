@@ -19,16 +19,6 @@
 
 <br/>
 
-<h2 align="center">Stuff I work with</h2>
-<p align="center">.NET 5 / Core / Framework</p>
-<p align="center">MySQL</p>
-<p align="center">Redis</p>
-<p align="center">RabbitMQ</p>
-<p align="center">CQRS Pattern</p>
-<p align="center">Microservices</p>
-<p align="center">Vue</p>
-<p align="center">Angular</p>
-
 <h2 align="left">Stuff that I work with a lot</h2>
 <table style="width:100%">
   <tr>
@@ -36,10 +26,12 @@
     <th>Framework</th>
     <th>Language</th>
     <th>Tool</th>
+    <th>Pattern</th>
   </tr>
   <tr>
     <td>ASP.NET</td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -48,11 +40,13 @@
     <td></td>
     <td align="center">X</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Typescript</td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -60,16 +54,19 @@
     <td></td>
     <td align="center">X</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Go Lang</td>
     <td></td>
     <td align="center">X</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Node w/Express</td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -78,28 +75,33 @@
     <td></td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
   </tr>
   <tr>
     <td>RabbitMq</td>
     <td></td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
   </tr>
   <tr>
     <td>MSSQL</td>
     <td></td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
   </tr>
   <tr>
     <td>MySQL</td>
     <td></td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
   </tr>
   <tr>
     <td>Angularjs</td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -108,12 +110,35 @@
     <td align="center">X</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
    <tr>
     <td>Vue</td>
     <td align="center">X</td>
     <td></td>
     <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CQRS</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+  </tr>
+  <tr>
+    <td>Mediator</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+  </tr>
+  <tr>
+    <td>Repository Pattern</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
   </tr>
 </table>
 
