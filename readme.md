@@ -41,6 +41,7 @@
     <td>ASP.NET</td>
     <td align="center">X</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>C#</td>
