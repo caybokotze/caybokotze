@@ -151,12 +151,12 @@
   </tr>
   <tr>
     <td>Dapper.CQRS</td>
-    <td></td>
+    <td>https://www.nuget.org/packages/Dapper.Doodle</td>
     <td>C#</td>
   </tr>
   <tr>
     <td>Dapper.QueryBuilders</td>
-    <td></td>
+    <td>https://www.nuget.org/packages/Dapper.Doodle</td>
     <td>C#</td>
   </tr>
 </table>
