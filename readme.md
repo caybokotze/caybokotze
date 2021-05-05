@@ -32,9 +32,10 @@
 <h2 align="left">Stuff that I work with a lot</h2>
 <table style="width:100%">
   <tr>
-    <th></th>
+    <th>Name</th>
     <th>Framework</th>
     <th>Language</th>
+    <th>Tool</th>
   </tr>
   <tr>
     <td>ASP.NET</td>
@@ -42,9 +43,76 @@
     <td></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>C#</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Typescript</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Javascript</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Go Lang</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Node w/Express</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Redis</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>RabbitMq</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MSSQL</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Angularjs</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Angular</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Vue</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
   </tr>
 </table>
 
