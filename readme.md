@@ -171,5 +171,5 @@
 <h3>The value of pushing on</h3>
 <p>A lot of people that are starting out in the tech space often get a bit overwhelmed with the amount of information that is out there. This personally happened to me as well when I was starting out my professional programming career. I say professional but this also applies if you just program as a hobby, which is ultimately how I started... There is an abundance of information online, something I tell students that I mentor is that you should really aim to only focus on one thing at a time. Get really good at something and only then learn more things. Don't start off trying to learn how to master all these frameworks and languages. Frameworks change, languages don't really. That would have helped me when I was getting started. The frameworks are not really that important. It is a lot more important to know the languages properly then move onto learning the frameworks. Of course, you can do this, but it will hold you back because in the long term you will get stuck.</p>
 
-<a href="https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharpcore-gpp.html" target="_blank">read more</a>
+<a href="https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharpcore-gpp.html" align="right" target="_blank">read more...</a>
 
