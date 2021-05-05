@@ -142,6 +142,24 @@
   </tr>
 </table>
 
+<h2 align="left">Public packages I have created</h2>
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Link</th>
+    <th>Langauge</th>
+  </tr>
+  <tr>
+    <td>Dapper.CQRS</td>
+    <td></td>
+    <td>C#</td>
+  </tr>
+  <tr>
+    <td>Dapper.QueryBuilders</td>
+    <td></td>
+    <td>C#</td>
+  </tr>
+</table>
 
 <h2>.NET Performance Stats</h2>
 <img src="https://miro.medium.com/max/1000/1*R4iDn4PMZ_IAihzkjaU_pA.png">
