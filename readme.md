@@ -29,16 +29,17 @@
 <p align="center">Vue</p>
 <p align="center">Angular</p>
 
+<h2 align="left">Stuff that I work with a lot</h2>
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th></th>
+    <th>Framework</th>
+    <th>Language</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>ASP.NET</td>
+    <td align="center">X</td>
+    <td></td>
   </tr>
   <tr>
     <td>Eve</td>
