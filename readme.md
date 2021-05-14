@@ -1,6 +1,6 @@
 <h1 align="center">Caybo Kotzé</h1>
 <h3 align="center">Code is a tool which I use to solve my problems.</h3>
-<p>People are a lot more difficult and complicated than some code. Code does what you tell it to do and nothing else without fail (mostly...). So that's quite neat.</p>
+<p>I enjoy programming for work and for fun. My interests lie in creating useful, high performance web and mobile applications. I use codeo to do that.</p>
 <hr />
 
 <p align="center">
