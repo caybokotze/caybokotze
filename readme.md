@@ -27,10 +27,12 @@
     <th>Language</th>
     <th>Tool</th>
     <th>Pattern</th>
+    <th>Architecture</th>
   </tr>
   <tr>
     <td>ASP.NET</td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -41,11 +43,13 @@
     <td align="center">X</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Typescript</td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -55,6 +59,7 @@
     <td align="center">X</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Go Lang</td>
@@ -62,10 +67,12 @@
     <td align="center">X</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Node w/Express</td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -76,12 +83,14 @@
     <td></td>
     <td align="center">X</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>RabbitMq</td>
     <td></td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -90,6 +99,7 @@
     <td></td>
     <td align="center">X</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>MySQL</td>
@@ -97,10 +107,12 @@
     <td></td>
     <td align="center">X</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Angularjs</td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -111,10 +123,12 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
    <tr>
     <td>Vue</td>
     <td align="center">X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -125,6 +139,7 @@
     <td></td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
   </tr>
   <tr>
     <td>Mediator</td>
@@ -132,9 +147,59 @@
     <td></td>
     <td></td>
     <td align="center">X</td>
+    <td></td>
   </tr>
   <tr>
     <td>Repository Pattern</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Façade Pattern</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Service Oriented Architecture</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+  </tr>
+  <tr>
+    <td>Microservice Architecture</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+  </tr>
+  <tr>
+    <td>Service Oriented Architecture</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+  </tr>
+  <tr>
+    <td>Layered Architecture</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center">X</td>
+  </tr>
+  <tr>
+    <td>Monolithic Architecture</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
