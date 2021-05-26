@@ -229,6 +229,11 @@
     <td>Coming soon</td>
     <td>GoLang</td>
   </tr>
+  <tr>
+    <td>DbMux - Database Multiplexer</td>
+    <td>https://github.com/caybokotze/dbmux</td>
+    <td>GoLang</td>
+  </tr>
 </table>
 
 <h2>Some thoughts for new developers</h2>
