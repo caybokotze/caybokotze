@@ -226,7 +226,7 @@
   </tr>
   <tr>
     <td>MySql Migration Helper</td>
-    <td>Coming soon</td>
+    <td>https://github.com/caybokotze/sql-migrator</td>
     <td>GoLang</td>
   </tr>
   <tr>
