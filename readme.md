@@ -1,6 +1,6 @@
 <h1 align="center">Caybo Kotzé</h1>
-<h3 align="center">Code is a tool which I use to solve my problems.</h3>
-<p>I enjoy programming for work and for fun. My interests lie in creating useful, high performance web and mobile applications. I use code as my tool to do that.</p>
+<h3 align="center">I likes the codes...</h3>
+<p>I enjoy programming for fun and profit. I can never learn enough and enjoy working on and solving tough problems and creating performant solutions for those problems.</p>
 <hr />
 
 <p align="center">
